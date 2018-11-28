@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="human_resources">Human Resources</string>
+    <string name="graduate_recruiters">Graduate Recruiters</string>
+    <string name="office_locations">Office Locations</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="dxclogo">dxclogo</string>
+</resources>

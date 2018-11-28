@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DXC onboarding</string>
+    <string name="time_management">Time Management</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="american_express">American Express</string>
+    <string name="workday">Workday</string>
+    <string name="my_dxc">My DXC</string>
+    <string name="security_pass">Security Pass</string>
+    <string name="concur">Concur</string>
+    <string name="concur_expenses">Concur/Expenses</string>
+    <string name="concour_expenses">Concour - Expenses</string>
+    <string name="contract">Contract</string>
+    <string name="todo">TODO</string>
+    <string name="dxc_logo">DXC logo</string>
+    <string name="pdf">PDF</string>
+    <string name="e_sign">E-Sign</string>
+</resources>

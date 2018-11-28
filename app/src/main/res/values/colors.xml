@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Color of Action bar-->
+    <color name="colorPrimary">#a9ec01</color>
+    <!--Colour of info bar-->
+    <color name="colorPrimaryDark">#000000</color>
+    <!--unknown color-->
+    <color name="colorAccent">#de0051</color>
+    <!--unknown-->
+    <color name="title_color">#008cff</color>
+    </resources>
